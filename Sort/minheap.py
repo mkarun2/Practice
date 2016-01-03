@@ -1,5 +1,4 @@
 # [8, 5, 3, 1, 9, 6, 0, 7, 4]
-#  0, 1, 2, 3, 4, 5, 6, 7, 8
 def heapsort(aList):
     # convert aList to heap
     length = len(aList) - 1

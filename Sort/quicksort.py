@@ -7,7 +7,8 @@ def quicksort(a, left, right):
 
 def partition(a, left, right):
     """
-
+    move the pivot to the current swap index ana perform the partition logic again
+    and in the end, the pivot index is known
     :param a:
     :param left:
     :param right:
